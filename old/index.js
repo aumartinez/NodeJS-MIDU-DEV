@@ -6,6 +6,6 @@
 // console.log(globalThis);
 
 // Common JS
-const { sum } = require('./cjs/sum')
+const { sum } = require('../cjs/sum')
 
 console.log(sum(1,2))
